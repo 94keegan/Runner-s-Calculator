@@ -1,0 +1,14 @@
+C:\Users\keega\Documents\Visual Studio 2015\Projects\Runner's Calculator\Runner's Calculator\bin\Debug\Runners Calculator.exe.config
+C:\Users\keega\Documents\Visual Studio 2015\Projects\Runner's Calculator\Runner's Calculator\obj\Debug\Runners Calculator.exe
+C:\Users\keega\Documents\Visual Studio 2015\Projects\Runner's Calculator\Runner's Calculator\obj\Debug\Runners Calculator.pdb
+C:\Users\keega\Documents\Visual Studio 2015\Projects\Runner's Calculator\Runner's Calculator\bin\Debug\Runners Calculator.exe
+C:\Users\keega\Documents\Visual Studio 2015\Projects\Runner's Calculator\Runner's Calculator\bin\Debug\Runners Calculator.pdb
+C:\Users\keega\Documents\Visual Studio 2015\Projects\Runner's Calculator\Runner's Calculator\obj\Debug\Runners Calculator.csprojResolveAssemblyReference.cache
+C:\Users\keega\Documents\Visual Studio 2015\Projects\Runner's Calculator\Runner's Calculator\obj\Debug\App.g.cs
+C:\Users\keega\Documents\Visual Studio 2015\Projects\Runner's Calculator\Runner's Calculator\obj\Debug\Runners Calculator_MarkupCompile.cache
+C:\Users\keega\Documents\Visual Studio 2015\Projects\Runner's Calculator\Runner's Calculator\obj\Debug\Runners Calculator_MarkupCompile.lref
+C:\Users\keega\Documents\Visual Studio 2015\Projects\Runner's Calculator\Runner's Calculator\obj\Debug\Runners Calculator.g.resources
+C:\Users\keega\Documents\Visual Studio 2015\Projects\Runner's Calculator\Runner's Calculator\obj\Debug\Runners_Calculator.Properties.Resources.resources
+C:\Users\keega\Documents\Visual Studio 2015\Projects\Runner's Calculator\Runner's Calculator\obj\Debug\Runners Calculator.csproj.GenerateResource.Cache
+C:\Users\keega\Documents\Visual Studio 2015\Projects\Runner's Calculator\Runner's Calculator\obj\Debug\MainWindow.g.cs
+C:\Users\keega\Documents\Visual Studio 2015\Projects\Runner's Calculator\Runner's Calculator\obj\Debug\MainWindow.baml
